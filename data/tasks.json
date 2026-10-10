@@ -1,0 +1,58 @@
+[
+    {
+        "id": "task-011",
+        "title": "Update privacy policy",
+        "description": "Review and publish the updated website privacy policy.",
+        "status": "done",
+        "priority": "low",
+        "due_date": "2026-10-08",
+        "due_time": "",
+        "reminder_minutes": null,
+        "due_timezone": "",
+        "assignee": "Rohan Joshi",
+        "tags": [
+            "Content",
+            "Legal"
+        ],
+        "text_format": {
+            "title": "capital_case",
+            "description": "sentence_case"
+        },
+        "comments": [
+            {
+                "id": "comment-4ec99f56fc4dd65d789fbe5a",
+                "author": "Deepak Rajoriya",
+                "message": "Completed",
+                "created_at": "2026-10-10T11:52:59+02:00"
+            }
+        ],
+        "deleted": false,
+        "created_at": "2026-10-03T10:00:00+05:30",
+        "updated_at": "2026-10-10T11:52:59+02:00",
+        "completed_at": "2026-10-03T10:00:00+05:30"
+    },
+    {
+        "id": "task-012",
+        "title": "Initial project setup",
+        "description": "Set up the repository and configure the basic project structure.",
+        "status": "done",
+        "priority": "low",
+        "due_date": "2026-10-09",
+        "due_time": "",
+        "reminder_minutes": null,
+        "due_timezone": "",
+        "assignee": "Amit Kumar",
+        "tags": [
+            "Setup",
+            "Development"
+        ],
+        "text_format": {
+            "title": "capital_case",
+            "description": "sentence_case"
+        },
+        "comments": [],
+        "deleted": false,
+        "created_at": "2026-10-03T11:00:00+05:30",
+        "updated_at": "2026-10-03T11:00:00+05:30"
+    }
+]
